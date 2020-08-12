@@ -1,0 +1,56 @@
+.user-card-wrapper {
+    display: flex;
+    width: 420px;
+    height: 90px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.04);
+    background-color: #ffffff;
+    margin-bottom: 85px;
+}
+
+.card-image {
+    padding: 13px 0 0 22.5px;
+    margin-right: 40.5px;
+}
+
+.card-image img {
+    width: 60px;
+    height: 60px;
+    border-radius: 4px;
+}
+
+.card-details {
+    height: 60px;
+}
+
+.card-details h2 {
+    height: 33px;
+    font-family: SFProText;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #555464;
+}
+
+.card-details img {
+    margin-left: 9px;
+    width: 17px;
+    height: 23px;
+    object-fit: contain;
+}
+
+.card-details .status {
+    width: 126px;
+    height: 18px;
+    font-family: SFProText;
+    font-size: 13px;
+    line-height: 1.17;
+    color: #b3b2b4;
+}
+
+.card-details .time {
+    width: 172.5px;
+    height: 25px;
+    font-family: SFProText;
+    font-size: 13px;
+    line-height: 1.17;
+    color: #b3b2b4;
+}

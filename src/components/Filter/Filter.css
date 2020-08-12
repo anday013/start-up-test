@@ -1,0 +1,49 @@
+.filter-container {
+    height: 158px;
+}
+
+.filter-container hr {
+    border-top: 1px solid #fafafa;
+}
+
+.filter-container h1 {
+    font-family: SFProText;
+    font-weight: bold;
+    line-height: 1.2;
+}
+
+.filter-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 19px 0 22.6px 0;
+}
+
+.filter-top form input {
+    width: 207px;
+    height: 34px;
+    border-radius: 16px;
+    border: solid 0.5px #eeeeee;
+}
+
+.filter-top form input:focus {
+    outline: none;
+}
+
+.filter-down {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 24.6px;
+    padding-bottom: 20px;
+}
+
+.filter-down select {
+    width: 228px;
+    height: 36px;
+    background-color: #fafafa;
+    border-radius: 5px;
+}
+
+.filter-down select:focus {
+    outline: none;
+}

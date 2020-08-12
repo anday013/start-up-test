@@ -1,0 +1,12 @@
+.page-container {
+    display: flex;
+    background-color: #fafafa;
+}
+
+.page-content {
+    background-color: inherit;
+    width: 81vw;
+    margin: 50px 3.6vw 0 15vw;
+    padding: 0 5vw 0 2vw;
+    border: black solid 1px;
+}

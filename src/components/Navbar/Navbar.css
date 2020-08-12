@@ -1,0 +1,8 @@
+.navbar-container {
+    width: 10vw;
+    height: 100vh;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+    background-color: #fff;
+    position: fixed;
+    left: 0;
+}
